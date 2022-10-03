@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+
+p{
+    margin: 1.8rem 0rem;
+}
+
+ol{
+   font-weight: bold; 
+}
+
+.one{
+    text-decoration-line: line-through;
+    font-weight: bold;
+}
+.two{
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+}
+.three{
+      text-decoration-line: underline;
+      font-style: italic;
+}
+.eight,.six {
+    letter-spacing: 6px;
+}
+.nine{
+    color: red;
+    background-color: yellow;
+}
+
+.extra,.extra2,.extra3{
+    letter-spacing: 6px;
+}
+a{
+  background-color: yellow;
+  font-style: italic;
+  font-weight: bold;  
+}
+.extra2{
+    color: red;
+    background-color: yellow;
+}
+    
